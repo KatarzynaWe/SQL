@@ -9,7 +9,7 @@ https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?vi
 ### Environment:
 Microsoft SQL Server Management Studio 
 
-### The file includes examples of the use of SQL elements, such as:
+### The file includes examples of the use:
 * SELECT, UPDATE, INSERT, DELETE
 * GROUP BY, HAVING, ORDER BY 
 * COUNT, MAX, MIN, SUM, AVG
